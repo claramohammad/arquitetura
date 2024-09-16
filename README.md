@@ -24,6 +24,14 @@
 
 6. **Banco de Dados Seguro (DB)**: O banco de dados é protegido por mecanismos de encriptação e acesso controlado por privilégios. Além disso, possui backups periódicos com dados criptografados para garantir a recuperação segura em caso de falha ou ataque de ransomware. O banco de dados opera dentro de uma rede privada, minimizando sua exposição a ataques externos.
 
+## Conclusão
+
+&emsp;&emsp; A proposta apresentada busca fortalecer os aspectos de segurança de um sistema conversacional voltado ao setor financeiro, utilizando uma arquitetura modular que permite o gerenciamento eficiente de autenticação, criptografia, monitoramento comportamental e auditoria. Com a implementação dessa solução, o sistema pode garantir a conformidade com as normas da LGPD e outras regulamentações financeiras, além de mitigar os riscos associados a fraudes e vazamentos de dados.
+
+&emsp;&emsp; O esforço necessário para implementar essa solução envolve desde a aquisição de tecnologias específicas, como ferramentas de machine learning para análise de comportamento, até a integração de mecanismos de autenticação e criptografia robustos. Além disso, será necessário realizar treinamentos regulares para o time de desenvolvimento e segurança, garantindo a correta implementação e operação das novas funcionalidades.
+
 ## Referências
 
 ZIMMER, Kelvin. Vazamento de dados é prejuízo certo para empresas. Lumiun Blog, 2 mar. 2022. Disponível em: https://www.lumiun.com/blog/vazamento-de-dados-e-prejuizo-certo-para-empresas/. Acesso em: 15 set. 2024.
+
+OWASP. Top 10 Web Application Security Risks – 2021. Disponível em: https://owasp.org/www-project-top-ten/. Acesso em: 15 set. 2024.
